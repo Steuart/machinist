@@ -15,6 +15,7 @@ target/
 *.iml
 *.ipr
 log/
+node_modules/
 
 ### NetBeans ###
 nbproject/private/
@@ -23,3 +24,6 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+src/main/resources/src/
+src/main/resources/static/css/
+src/main/resources/static/js/
